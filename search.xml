@@ -8,7 +8,7 @@
       <link href="//2023/06/23/PicoGo/"/>
       <url>//2023/06/23/PicoGo/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://cdn.jsdelivr.net/gh/wzq20021202/imgs@master/blog/img20230623165141.png" alt="PicoGoDemo.png"></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><code>ctrl</code>+<code>alt</code>+<code>U</code><br><img src="https://cdn.jsdelivr.net/gh/wzq20021202/imgs@master/blog/img20230623165141.png" alt="PicoGoDemo.png"></p>]]></content>
       
       
       <categories>
@@ -45,9 +45,9 @@
       
         <tags>
             
-            <tag> Algorithm </tag>
-            
             <tag> Study </tag>
+            
+            <tag> Algorithm </tag>
             
         </tags>
       
@@ -228,9 +228,9 @@
       
         <tags>
             
-            <tag> Study </tag>
-            
             <tag> Golang </tag>
+            
+            <tag> Study </tag>
             
         </tags>
       
